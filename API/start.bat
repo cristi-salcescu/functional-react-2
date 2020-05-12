@@ -1,0 +1,1 @@
+json-server --watch products.json

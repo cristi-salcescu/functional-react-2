@@ -1,0 +1,15 @@
+.product-list-item {
+    padding: 10px;
+    margin: 10px;
+    background-color: #CC6500;
+    color: #FFF;
+}
+
+.product-list-item > div {
+    margin: 5px 0;
+}
+
+.product-list-item a {
+    color: #FFF;
+    text-decoration: none;
+}

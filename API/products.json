@@ -1,0 +1,114 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "mango",
+      "price": 10,
+      "nutrients": [
+      	{"name" : "Calories", "value": 99},
+      	{"name" : "Protein", "value": "1.4 grams"},      	
+      	{"name" : "Carbs", "value": "24.7 grams"},
+      	{"name" : "Fat", "value": "0.6 grams"},
+      	{"name" : "Dietary fiber", "value": "2.6 grams"},
+      	{"name" : "Vitamin C", "value": "67% of the Reference Daily Intake (RDI)"},
+      	{"name" : "Copper", "value": "20% of the RDI"},
+      	{"name" : "Folate", "value": "18% of the RDI"},    
+      	{"name" : "Vitamin B6", "value": "11.6% of the RDI"},
+      	{"name" : "Vitamin A", "value": "10% of the RDI"},      	
+      	{"name" : "Vitamin E", "value": "9.7% of the RDI"},
+      	{"name" : "Vitamin B5", "value": "6.5% of the RDI"},
+      	{"name" : "Vitamin K", "value": "6% of the RDI"},
+      	{"name" : "Niacin", "value": "7% of the RDI"},
+      	{"name" : "Potassium", "value": "6% of the RDI"},
+      	{"name" : "Manganese", "value": "4.5% of the RDI"}          	
+      ]
+    },
+    {
+      "id": 2,
+      "name": "apple",
+      "price": 5,
+      "nutrients": [
+      	{"name" : "Calories", "value": 52},
+      	{"name" : "Water", "value": "86%"},      	
+      	{"name" : "Protein", "value": "0.3 grams"},
+      	{"name" : "Carbs", "value": "13.8 grams"},
+      	{"name" : "Sugar", "value": "10.4 grams"},
+      	{"name" : "Fiber", "value": "2.4 grams"},
+      	{"name" : "Fat", "value": "0.2 grams"}      
+      ]
+    },
+    {
+      "id": 3,
+      "name": "apricots",
+      "price": 10,
+      "nutrients": [
+      	{"name" : "Calories", "value": 34},
+      	{"name" : "Carbs", "value": "8 grams"},      	
+      	{"name" : "Protein", "value": "1 gram"},
+      	{"name" : "Fat", "value": "0.27 grams"},
+      	{"name" : "Fiber", "value": "1.5 grams"},
+      	{"name" : "Vitamin A", "value": "8% of the Daily Value (DV)"},
+      	{"name" : "Vitamin C", "value": "8% of the DV"},
+      	{"name" : "Vitamin E", "value": "4% of the DV"},    
+      	{"name" : "Potassium", "value": "4% of the DV"}      
+      ]
+    },
+    {
+      "id": 4,
+      "name": "avocado",
+      "price": 3,
+      "nutrients": [
+      	{"name" : "Vitamin K", "value": "26% of the daily value (DV)"},
+      	{"name" : "Folate", "value": "20% of the DV"},      	
+      	{"name" : "Vitamin C", "value": "17% of the DV"},
+      	{"name" : "Potassium", "value": "14% of the DV"},
+      	{"name" : "Vitamin B5", "value": "14% of the DV"},
+      	{"name" : "Vitamin B6", "value": "13% of the DV"},
+      	{"name" : "Vitamin E", "value": "10% of the DV"}     
+      ]       
+    },
+    {
+      "id": 5,
+      "name": "blueberries",
+      "price": 20,
+      "nutrients": [
+      	{"name" : "Fiber", "value": "4 grams"},
+      	{"name" : "Vitamin C", "value": "24% of the RDI"},      	
+      	{"name" : "Vitamin K", "value": "36% of the RDI"},
+      	{"name" : "Manganese", "value": "25% of the RDI"},
+      	{"name" : "Vitamin B5", "value": "14% of the DV"},
+      	{"name" : "Vitamin B6", "value": "13% of the DV"},
+      	{"name" : "Vitamin E", "value": "10% of the DV"}     
+      ]
+    },
+    {
+      "id": 6,
+      "name": "cherries",
+      "price": 10,
+      "nutrients": []
+    },
+    {
+      "id": 7,
+      "name": "grapes",
+      "price": 7,
+      "nutrients": []
+    },
+    {
+      "id": 8,
+      "name": "pear",
+      "price": 7,
+      "nutrients": []
+    },
+    {
+      "id": 9,
+      "name": "strawberries",
+      "price": 20,
+      "nutrients": []
+    },
+    {
+      "id": 10,
+      "name": "watermelon",
+      "price": 3
+    }
+  ]
+}

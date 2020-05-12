@@ -1,0 +1,10 @@
+.product-details {
+    padding: 10px;
+    margin: 10px;
+    background-color: #CC6500;
+    color: #FFF;
+}
+
+.product-details > div {
+    margin: 10px 0;
+}
